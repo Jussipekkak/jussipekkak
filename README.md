@@ -1,6 +1,6 @@
 <!-- Profiilikuva -->
 <p align="center">
-  <img src="https://github.com/Jussipekkak/jussipekkak/blob/main/headshot2.jpg"
+  <img src="https://github.com/Jussipekkak/jussipekkak/blob/main/headshot22.jpg"
   alt="Hero image"
   style="width:100%; object-fit:cover; display:block;"
 </p>
