@@ -53,7 +53,8 @@ Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja pääs
 - Android-sovellus, joka hakee faktoja REST API:sta  
 - Fragmentit, RecyclerView, API-integraatio
 
-🔹 **React + Express + MongoDB Web App**  
+🔹 [**React + Express + MongoDB Web App**](https://github.com/Jussipekkak/WebDev-Final/)  
+
 - Fullstack-projekti  
 - Frontend Reactilla, backend Expressillä  
 - MongoDB tietokantana
