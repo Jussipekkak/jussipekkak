@@ -2,7 +2,11 @@
 <p align="center">
   <img src="https://github.com/Jussipekkak/jussipekkak/blob/main/headshot22.jpg"
   alt="Hero image"
-  style="width:100%; object-fit:cover; display:block;"
+     width:100%;
+    height:300px;
+    object-fit:cover;
+    display:block;
+    margin: 0 auto;"
 </p>
 
 <p align="center">
