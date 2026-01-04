@@ -7,9 +7,8 @@
     object-fit:cover;
     display:block;
     margin: 0 auto;"
-</p>
-
-<p align="center">
+  
+ align="center">
   <strong>🎓 ICT-opiskelija | 💻 Ohjelmistokehitys | 🤖 Tekoäly</strong><br>
   <strong>Centria University of Applied Sciences</strong>
 </p>
