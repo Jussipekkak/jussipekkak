@@ -1,4 +1,3 @@
-<!-- Profiilikuva -->
 <p align="center">
   <img src="https://github.com/Jussipekkak/jussipekkak/blob/main/headshot22.jpg"
   alt="Hero image"
@@ -7,8 +6,6 @@
     object-fit:cover;
     display:block;
     margin: 0 auto;"
-  
- align="center">
   <strong>🎓 ICT-opiskelija | 💻 Ohjelmistokehitys | 🤖 Tekoäly</strong><br>
   <strong>Centria University of Applied Sciences</strong>
 </p>
