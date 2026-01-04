@@ -6,6 +6,7 @@
     object-fit:cover;
     display:block;
     margin: 0 auto;"
+  
   <strong>🎓 ICT-opiskelija | 💻 Ohjelmistokehitys | 🤖 Tekoäly</strong><br>
   <strong>Centria University of Applied Sciences</strong>
 </p>
