@@ -18,7 +18,7 @@
 Olen **utelias ja innostunut tietotekniikan opiskelija**, joka nauttii uuden oppimisesta ja käytännön tekemisestä.  
 Erityisesti minua kiinnostavat **FULLSTACK-kehitys, pilvipalvelut ja tekoälysovellukset**.
 
-Tavoitteeni on kehittyä **Junior Software Developeriksi** ja päästä oppimaan ammattilaisilta osana tiimiä.
+Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja päästä oppimaan ammattilaisilta osana tiimiä.
 
 ---
 
