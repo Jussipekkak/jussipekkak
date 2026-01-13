@@ -49,15 +49,20 @@ Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja pääs
 
 ## 📂 Projektit
 
-🔹 **Kotlin Cat Facts App**  
-- Android-sovellus, joka hakee faktoja REST API:sta  
-- Fragmentit, RecyclerView, API-integraatio
-
 🔹 [**React + Express + MongoDB Web App**](https://github.com/Jussipekkak/WebDev-Final/)  
 
 - Fullstack-projekti  
 - Frontend Reactilla, backend Expressillä  
 - MongoDB tietokantana
+
+  
+🔹 [**C# - Matopeli konsolissa**](https://github.com/Jussipekkak/C-Snake)  
+
+  tavoitteena oli:
+- Harjoitella C#:n perusteita
+- Ymmärtää pelisilmukan toimintaa
+- Toteuttaa yksinkertainen törmäyslogiikka
+- Käyttää listoja ja olioita pelitilan hallintaan
 
 🔹 [**Arduino IoT -projekti**](https://github.com/Jussipekkak/Arduino-project)  
 
