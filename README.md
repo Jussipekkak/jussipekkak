@@ -59,16 +59,17 @@ Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja pääs
 - Frontend Reactilla, backend Expressillä  
 - MongoDB tietokantana
 
-🔹 **Arduino IoT -projekti**  
+🔹 [**Arduino IoT -projekti**](https://github.com/Jussipekkak/Arduino-project)  
+
+- IOT projekti, jossa minun vastuulla oli koodin kirjoittaminen C++ ohjelmointikielellä
 - Maaperän kosteuden ja valon mittaus  
 - Datan lähetys palvelimelle
 
-🔹 **Python-pelit**  
-- FlappyBird clone  
-- SlotMachine  
-- Dice betting game
+🔹 [**Python - FlappyBird**](https://github.com/Jussipekkak/FlappyBird)  
 
-➡️ Katso kaikki projektit repositoryistani ⬇️
+- Tämä projekti on **Flappy Bird -pelin klooni**, joka on toteutettu **Pythonilla ja Pygame-kirjastolla**.  
+
+
 
 ---
 
