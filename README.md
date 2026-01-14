@@ -54,20 +54,22 @@ Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja pääs
 - Fullstack-projekti  
 - Frontend Reactilla, backend Expressillä  
 - MongoDB tietokantana
+  
   <img src="screenshots/webapp.png" width="400" >
   <img src="screenshots/webapp2.png" width="400" >
-
-
-
+<br>
+<br>
 
  🔹[**Kotlin-API-Fragment android app**]( https://github.com/Jussipekkak/Kotlin-API-Fragment)
 
  - Android-sovellus toteutettu Kotlinilla, käyttäen Fragmentteja näkymien hallintaan
  - Sovellus hakee dataa ulkoisesta REST APIsta ja käsittelee JSON-muotoista vastetta
  - Tavoitteena oli oppia Android-sovelluksen perusrakenne ja API-integraation perusteet
+   
 <img src="screenshots/kotlin3.png" width="200" >
 
-
+<br>
+<br>
   
 🔹 [**C# - Matopeli konsolissa**](https://github.com/Jussipekkak/C-Snake)  
 
@@ -76,9 +78,11 @@ Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja pääs
 - Ymmärtää pelisilmukan toimintaa
 - Toteuttaa yksinkertainen törmäyslogiikka
 - Käyttää listoja ja olioita pelitilan hallintaan
+  
   <img src="screenshots/Snake.png" width="300" >
 
-
+<br>
+<br>
 
 🔹 [**Arduino IoT -projekti**](https://github.com/Jussipekkak/Arduino-project)  
 
@@ -86,18 +90,23 @@ Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja pääs
 - IOT projekti, jossa minun vastuulla oli koodin kirjoittaminen C++ ohjelmointikielellä
 - Maaperän kosteuden ja valon mittaus  
 - Datan lähetys palvelimelle
+
+
   <img src="screenshots/Arduino.png" width="300" >
 
-
+<br>
+<br>
+ 
 
 🔹 [**Python - FlappyBird**](https://github.com/Jussipekkak/FlappyBird)  
 
-- Tämä projekti on **Flappy Bird -pelin klooni**, joka on toteutettu **Pythonilla ja Pygame-kirjastolla**.  
+- Tämä projekti on **Flappy Bird -pelin klooni**, joka on toteutettu **Pythonilla ja Pygame-kirjastolla**.
+  
 <img src="screenshots/Flappy.png" width="300" >
 
 ---
 
-## 📈 Mitä haluan oppia lisää
+##  Mitä haluan oppia lisää
 
 - Fullstack kehitys
 - Tekoälysovellusten kehitys
