@@ -59,6 +59,8 @@ My goal is to work in software development and learn from professionals as part 
 
 🔹 **React + Express + MongoDB Web App**  
 https://github.com/Jussipekkak/WebDev-Final/
+<br>
+**Demo video: https://youtu.be/2Hh4z-gHG6I**
 
 - Full-stack project  
 - Frontend built with React, backend with Express  
