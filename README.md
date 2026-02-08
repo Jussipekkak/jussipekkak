@@ -7,122 +7,125 @@
     display:block;
     margin: 0 auto;"
   
-  <strong>🎓 ICT-opiskelija | 💻 Ohjelmistokehitys | 🤖 Tekoäly</strong><br>
-  <strong>Centria University of Applied Sciences</strong>
+<strong>🎓 ICT Student | 💻 Software Development | 🤖 AI</strong><br>
+<strong>Centria University of Applied Sciences</strong>
 </p>
 
 ---
 
-## 🚀 Minusta lyhyesti
+## 🚀 About me
 
-Olen **utelias ja innostunut tietotekniikan opiskelija**, joka nauttii uuden oppimisesta ja käytännön tekemisestä.  
-Erityisesti minua kiinnostavat **FULLSTACK-kehitys, pilvipalvelut ja tekoälysovellukset**.
+I am a **curious and enthusiastic ICT student** who enjoys learning new things and working on practical projects.  
+I am especially interested in **full-stack development, cloud services, and AI applications**.
 
-Tavoitteeni on päästä työskentelemään sovelluskehityksen parissa ja päästä oppimaan ammattilaisilta osana tiimiä.
+My goal is to work in software development and learn from professionals as part of a team.
 
 ---
 
-## 🛠️ Teknologiat & työkalut
+## 🛠️ Technologies & Tools
 
-**Ohjelmointikielet**
-- Python
-    - LangChain
+**Programming languages**
+- Python  
+  - LangChain  
 - C#
 
 **Web & backend**
-- JavaScript, HTML, CSS
-- React, Vite
-- Express.js
+- JavaScript, HTML, CSS  
+- React, Vite  
+- Express.js  
 
-**Tietokannat & pilvi**
-- MongoDB
-- AWS
-- Google cloud
+**Databases & cloud**
+- MongoDB  
+- AWS  
+- Google Cloud  
 
-**Muut**
-- Docker
-- Git & GitHub
-- REST API:t
-- Arduino / IoT
-
----
-
-## 📂 Projektit
-
-🔹 [**React + Express + MongoDB Web App**](https://github.com/Jussipekkak/WebDev-Final/)  
-
-- Fullstack-projekti  
-- Frontend Reactilla, backend Expressillä  
-- MongoDB tietokantana
-  
-  <img src="screenshots/webapp.png" width="400" >
-  <img src="screenshots/webapp2.png" width="400" >
-<br>
-<br>
-
- 🔹[**Kotlin-API-Fragment android app**]( https://github.com/Jussipekkak/Kotlin-API-Fragment)
-
- - Android-sovellus toteutettu Kotlinilla, käyttäen Fragmentteja näkymien hallintaan
- - Sovellus hakee dataa ulkoisesta REST APIsta ja käsittelee JSON-muotoista vastetta
- - Tavoitteena oli oppia Android-sovelluksen perusrakenne ja API-integraation perusteet
-   
-<img src="screenshots/kotlin3.png" width="200" >
-
-<br>
-<br>
-  
-🔹 [**C# - Matopeli konsolissa**](https://github.com/Jussipekkak/C-Snake)  
-
-  tavoitteena oli:
-- Harjoitella C#:n perusteita
-- Ymmärtää pelisilmukan toimintaa
-- Toteuttaa yksinkertainen törmäyslogiikka
-- Käyttää listoja ja olioita pelitilan hallintaan
-  
-  <img src="screenshots/Snake.png" width="300" >
-
-<br>
-<br>
-
-🔹 [**Arduino IoT -projekti**](https://github.com/Jussipekkak/Arduino-project)  
-
-
-- IOT projekti, jossa minun vastuulla oli koodin kirjoittaminen C++ ohjelmointikielellä
-- Maaperän kosteuden ja valon mittaus  
-- Datan lähetys palvelimelle
-
-
-  <img src="screenshots/Arduino.png" width="300" >
-
-<br>
-<br>
- 
-
-🔹 [**Python - FlappyBird**](https://github.com/Jussipekkak/FlappyBird)  
-
-- Tämä projekti on **Flappy Bird -pelin klooni**, joka on toteutettu **Pythonilla ja Pygame-kirjastolla**.
-  
-<img src="screenshots/Flappy.png" width="300" >
+**Other**
+- Docker  
+- Git & GitHub  
+- REST APIs  
+- Arduino / IoT  
 
 ---
 
-##  Mitä haluan oppia lisää
+## 🏅 Badges & Certifications
 
-- Fullstack kehitys
-- Tekoälysovellusten kehitys
-- Pilvipohjaiset arkkitehtuurit
-- Tiimityö oikeissa projekteissa
+- **AWS Academy Graduate – Cloud Developing – Training Badge** (AWS)  
+- **AWS Academy Graduate – Cloud Foundations – Training Badge** (AWS)  
+- **Introduction to Cybersecurity** – Issued by Cisco  
 
 ---
 
-## 📫 Ota yhteyttä
+## 📂 Projects
 
-- 💼 LinkedIn: www.linkedin.com/in/jussi-pekka-karhumaa-b14265255
-- 📧 Sähköposti: Jussikarhumaa@gmail.com
-- 🌐 GitHub: https://github.com/Jussipekkak
+🔹 **React + Express + MongoDB Web App**  
+https://github.com/Jussipekkak/WebDev-Final/
+
+- Full-stack project  
+- Frontend built with React, backend with Express  
+- MongoDB as the database  
+
+<img src="screenshots/webapp.png" width="400">
+<img src="screenshots/webapp2.png" width="400">
+<br><br>
+
+🔹 **Kotlin API Fragment Android App**  
+https://github.com/Jussipekkak/Kotlin-API-Fragment
+
+- Android app built with Kotlin using Fragments for UI management  
+- Fetches data from an external REST API and processes JSON responses  
+- Goal was to learn Android app structure and API integration basics  
+
+<img src="screenshots/kotlin3.png" width="200">
+<br><br>
+
+🔹 **C# Snake Game (Console)**  
+https://github.com/Jussipekkak/C-Snake  
+
+Goals:
+- Practice C# fundamentals  
+- Understand the game loop  
+- Implement simple collision logic  
+- Use lists and objects to manage game state  
+
+<img src="screenshots/Snake.png" width="300">
+<br><br>
+
+🔹 **Arduino IoT Project**  
+https://github.com/Jussipekkak/Arduino-project  
+
+- IoT project where I was responsible for writing the code in C++  
+- Measures soil moisture and light levels  
+- Sends data to a server  
+
+<img src="screenshots/Arduino.png" width="300">
+<br><br>
+
+🔹 **Python – Flappy Bird Clone**  
+https://github.com/Jussipekkak/FlappyBird  
+
+- A **Flappy Bird clone** built with **Python and the Pygame library**  
+
+<img src="screenshots/Flappy.png" width="300">
+
+---
+
+## What I want to learn more about
+
+- Full-stack development  
+- AI application development  
+- Cloud-based architectures  
+- Teamwork in real projects  
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: www.linkedin.com/in/jussi-pekka-karhumaa-b14265255  
+- 📧 Email: Jussikarhumaa@gmail.com  
+- 🌐 GitHub: https://github.com/Jussipekkak  
 
 ---
 
 <p align="center">
-  ⭐ Kiitos kun katsoit profiilini!
+⭐ Thanks for checking out my profile!
 </p>
